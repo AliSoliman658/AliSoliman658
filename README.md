@@ -1,14 +1,10 @@
 <div align="center">
-
-# 👋 Welcome, I'm **Ali Soliman**
-
-<img src="https://github.com/ali-soliman/ali-soliman/blob/main/assets/banner.png" alt="Ali Soliman Banner" width="80%"/> <br>
-<img src="https://github.com/ali-soliman/ali-soliman/blob/main/assets/coding.gif" alt="Workspace" width="40%"/><br> 
-
-![Profile Views](https://komarev.com/ghpvc/?username=ali-soliman&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ali-soliman&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+  
+# 👨‍💻 Ali Soliman  
+**C++ • JavaScript • SQL • HTML • CSS • Scratch Developer**
 
 </div>
+
 
 ---
 
